@@ -1,3 +1,2 @@
-hello
+hi
 good morning
-work hard everyday
