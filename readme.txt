@@ -1,3 +1,3 @@
 hello
 good morning
-work hard
+work hard everyday
